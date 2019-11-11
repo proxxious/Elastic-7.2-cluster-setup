@@ -1,0 +1,1 @@
+# Elastic-7.2-cluster-setup
